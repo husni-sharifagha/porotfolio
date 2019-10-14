@@ -1,0 +1,59 @@
+body{
+    background-image:url(../img/blackone.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    scroll-behavior: smooth;
+    transition-delay: 10s;
+    transition: 0.35s;
+    margin-top: 5%;
+    height: 100vh;
+}
+
+ .menu{
+    /* position: fixed;
+    top: 30%;
+    left: 0; */
+    width: 18%;
+    line-height: 30px;
+} 
+.avatar{
+    position: fixed;
+    top: 7%;
+    right: 8.5%;
+    width: 11%;
+    height: 18%;
+    border-radius: 50%;
+
+}
+#headingOne, #headingTwo, #headingThree, #headingFour, #headingFive,#headingSix{
+    background-color: rgba(0, 0, 0, 0.932);
+    
+    border: 0 none;
+    
+}
+.btn-link {
+
+    text-decoration: none;
+    color: white;
+}
+.btn-link:hover {
+    background-color: antiquewhite;
+    text-decoration: none;
+    color: gray;
+}
+
+
+.card-body{
+    color: white;
+    padding: 2%;
+    background-color:  rgba(0, 0, 0, 0.932);
+    width: 75%;
+    height: 20vh;
+    border-radius: 2%;
+     margin-left: 15%;
+}
+a, a:visited, a:link{
+    color: white;
+    text-decoration: none;
+}
+
