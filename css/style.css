@@ -67,4 +67,7 @@ a, a:visited, a:link{
     width: 50%;
     height: auto;   
 }
+    .card-header{
+    width:20%
+    }
 }
