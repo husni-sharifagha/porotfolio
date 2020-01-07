@@ -57,3 +57,14 @@ a, a:visited, a:link{
     text-decoration: none;
 }
 
+@media only screen and (max-width: 600px) {
+
+    
+    .avatar{
+    position: fixed;
+    top: 5%;
+    right: 10%;
+    width: 50%;
+    height: auto;   
+}
+}
