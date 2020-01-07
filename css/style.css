@@ -68,6 +68,9 @@ a, a:visited, a:link{
     height: auto;   
 }
     .card-header{
-    width:20%
+    width:50%
+    }
+    #headingOne{
+        width:50%
     }
 }
